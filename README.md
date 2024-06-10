@@ -3,6 +3,15 @@
 ### Overview
 CourseTutorApp is an API only Rails application designed to manage courses and their associated tutors. A course can have multiple tutors, but each tutor can only teach one course.
 
+### Ruby Version
+- 3.3.0
+
+### Rails Version
+- 7.1.3
+
+### Database
+- Sqlite3
+
 ### Installation
 
 1. Clone the repository
