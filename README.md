@@ -16,9 +16,10 @@ CourseTutorApp is an API only Rails application designed to manage courses and t
 
 1. Clone the repository
 2. Run `bundle install`
-3. Run `rails db:migrate`
-4. Run `rails db:seed`
-5. Run `rails s`
+3. Run `rails db:create`
+4. Run `rails db:migrate`
+5. Run `rails db:seed`
+6. Run `rails s`
 
 ### Run Tests
 Run `bundle exec rspec` to run the test suite.
